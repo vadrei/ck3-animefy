@@ -1,4 +1,6 @@
-﻿![Animefy Thumbnail](/thumbnail.png)
+﻿This is the repo for the [Animefy](https://steamcommunity.com/sharedfiles/filedetails/?id=2603470042) mod. The source code is not playable without the needed assets so please go there to obtain the mod.
+
+![Animefy Thumbnail](/thumbnail.png)
 # Make your dynasty in glorious 2D
 Tired of your ruler looking like an old grandpa? Your promised spouse turned out a little on the "homely" side? Need a little facelift for your superior inbred dynasty? Say no more. Today, you can now relive history as the Nasuverse envisions it.
 
@@ -35,6 +37,7 @@ Everything else you can think of is almost certainly compatible!
 
 # Links - Support & Contribute
 
+- [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2603470042)
 - [Github](https://github.com/vadrei/ck3-animefy) (No Assets)
 - [Discord](https://discord.gg/25PxQF6xGq)
 

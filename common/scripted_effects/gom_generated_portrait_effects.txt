@@ -1,0 +1,1544 @@
+﻿gom_add_servant_portrait_male = {
+    if = {
+        limit = {
+            portrait_trigger = no
+        }
+
+        random_list = {
+            20 = {
+                add_trait = gom_trait_personal_54521
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_54525
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_54531
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_54535
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_54539
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_54541
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_54544
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_54556
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_54559
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_54566
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_54569
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_54572
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_54574
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_54581
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_54585
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_54594
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_54610
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_54614
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_54618
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_54621
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_54624
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_54628
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_54629
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_54634
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_54638
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_54647
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_54648
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_54656
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_54660
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_54663
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_54667
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_54669
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_54671
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_54674
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_54677
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_54678
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_54684
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_54692
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_54700
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_54702
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_54725
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_54726
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_54739
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_54744
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_54749
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_54751
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_54756
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_54759
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_54765
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_54769
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_54782
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_54785
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_54786
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_54792
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_54798
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_54807
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_54811
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_54814
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_54818
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_54820
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_54827
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_54829
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_54832
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_54852
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_54856
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_54858
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_54865
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_54868
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_54871
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_54877
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_54880
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_54926
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_54936
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_54942
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_54955
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_54961
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_54969
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_54972
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_54975
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_54979
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_54981
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_54984
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_55017
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_55021
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_55072
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_55076
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_55137
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_55140
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_55144
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_55148
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_55151
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_55155
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_55162
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_55165
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_55169
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_55173
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_55211
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_55224
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_55228
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_55236
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_55243
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_55259
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_55296
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_55300
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_55305
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_55309
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_55313
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_55317
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_55328
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_55332
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_55338
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_55340
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_55387
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_55397
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_55401
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_55419
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_55423
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_55427
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_55432
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_55438
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_55487
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_55491
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_55499
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_55503
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_55507
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_55516
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_55521
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_55526
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_55530
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_55534
+            }
+
+        }
+
+    }
+
+}
+
+gom_add_servant_portrait_female = {
+    if = {
+        limit = {
+            portrait_trigger = no
+        }
+
+        random_list = {
+            20 = {
+                add_trait = gom_trait_personal_54506
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_54510
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_54511
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_54513
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_54517
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_54528
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_54548
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_54553
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_54562
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_54578
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_54588
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_54591
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_54597
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_54601
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_54606
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_54639
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_54643
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_54652
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_54654
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_54681
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_54685
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_54689
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_54695
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_54697
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_54704
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_54708
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_54711
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_54714
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_54718
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_54722
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_54728
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_54730
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_54734
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_54736
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_54741
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_54753
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_54763
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_54767
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_54773
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_54779
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_54780
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_54796
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_54800
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_54804
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_54823
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_54836
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_54840
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_54843
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_54847
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_54850
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_54853
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_54859
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_54862
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_54874
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_54881
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_54885
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_54888
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_54891
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_54893
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_54898
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_54902
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_54906
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_54910
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_54914
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_54917
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_54922
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_54925
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_54928
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_54932
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_54939
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_54944
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_54946
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_54950
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_54959
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_54965
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_54988
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_54991
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_54995
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_54998
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_55001
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_55006
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_55010
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_55012
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_55015
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_55025
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_55030
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_55034
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_55038
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_55042
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_55046
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_55050
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_55054
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_55058
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_55062
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_55065
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_55069
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_55079
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_55083
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_55087
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_55088
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_55091
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_55095
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_55098
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_55104
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_55108
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_55113
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_55117
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_55121
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_55125
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_55130
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_55134
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_55159
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_55176
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_55179
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_55184
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_55188
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_55191
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_55195
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_55199
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_55203
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_55207
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_55215
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_55219
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_55232
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_55239
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_55247
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_55251
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_55254
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_55263
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_55267
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_55270
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_55273
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_55276
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_55280
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_55284
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_55288
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_55292
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_55321
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_55324
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_55335
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_55343
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_55347
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_55350
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_55354
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_55358
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_55362
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_55366
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_55370
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_55376
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_55380
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_55383
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_55391
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_55405
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_55409
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_55414
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_55442
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_55447
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_55452
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_55456
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_55460
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_55464
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_55468
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_55471
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_55475
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_55479
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_55484
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_55495
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_55512
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_55539
+            }
+
+            20 = {
+                add_trait = gom_trait_personal_55543
+            }
+
+        }
+
+    }
+
+}
+
+gom_add_servant_portrait = {
+    if = {
+        limit = {
+            is_female = yes
+        }
+
+        gom_add_servant_portrait_female = yes
+    }
+
+    else = {
+        gom_add_servant_portrait_male = yes
+    }
+
+}
+
+gom_remove_servant_portrait = {
+    remove_trait = gom_trait_personal_54506
+    remove_trait = gom_trait_personal_54510
+    remove_trait = gom_trait_personal_54511
+    remove_trait = gom_trait_personal_54513
+    remove_trait = gom_trait_personal_54517
+    remove_trait = gom_trait_personal_54521
+    remove_trait = gom_trait_personal_54525
+    remove_trait = gom_trait_personal_54528
+    remove_trait = gom_trait_personal_54531
+    remove_trait = gom_trait_personal_54535
+    remove_trait = gom_trait_personal_54539
+    remove_trait = gom_trait_personal_54541
+    remove_trait = gom_trait_personal_54544
+    remove_trait = gom_trait_personal_54548
+    remove_trait = gom_trait_personal_54553
+    remove_trait = gom_trait_personal_54556
+    remove_trait = gom_trait_personal_54559
+    remove_trait = gom_trait_personal_54562
+    remove_trait = gom_trait_personal_54566
+    remove_trait = gom_trait_personal_54569
+    remove_trait = gom_trait_personal_54572
+    remove_trait = gom_trait_personal_54574
+    remove_trait = gom_trait_personal_54578
+    remove_trait = gom_trait_personal_54581
+    remove_trait = gom_trait_personal_54585
+    remove_trait = gom_trait_personal_54588
+    remove_trait = gom_trait_personal_54591
+    remove_trait = gom_trait_personal_54594
+    remove_trait = gom_trait_personal_54597
+    remove_trait = gom_trait_personal_54601
+    remove_trait = gom_trait_personal_54606
+    remove_trait = gom_trait_personal_54610
+    remove_trait = gom_trait_personal_54614
+    remove_trait = gom_trait_personal_54618
+    remove_trait = gom_trait_personal_54621
+    remove_trait = gom_trait_personal_54624
+    remove_trait = gom_trait_personal_54628
+    remove_trait = gom_trait_personal_54629
+    remove_trait = gom_trait_personal_54634
+    remove_trait = gom_trait_personal_54638
+    remove_trait = gom_trait_personal_54639
+    remove_trait = gom_trait_personal_54643
+    remove_trait = gom_trait_personal_54647
+    remove_trait = gom_trait_personal_54648
+    remove_trait = gom_trait_personal_54652
+    remove_trait = gom_trait_personal_54654
+    remove_trait = gom_trait_personal_54656
+    remove_trait = gom_trait_personal_54660
+    remove_trait = gom_trait_personal_54663
+    remove_trait = gom_trait_personal_54667
+    remove_trait = gom_trait_personal_54669
+    remove_trait = gom_trait_personal_54671
+    remove_trait = gom_trait_personal_54674
+    remove_trait = gom_trait_personal_54677
+    remove_trait = gom_trait_personal_54678
+    remove_trait = gom_trait_personal_54681
+    remove_trait = gom_trait_personal_54684
+    remove_trait = gom_trait_personal_54685
+    remove_trait = gom_trait_personal_54689
+    remove_trait = gom_trait_personal_54692
+    remove_trait = gom_trait_personal_54695
+    remove_trait = gom_trait_personal_54697
+    remove_trait = gom_trait_personal_54700
+    remove_trait = gom_trait_personal_54702
+    remove_trait = gom_trait_personal_54704
+    remove_trait = gom_trait_personal_54708
+    remove_trait = gom_trait_personal_54711
+    remove_trait = gom_trait_personal_54714
+    remove_trait = gom_trait_personal_54718
+    remove_trait = gom_trait_personal_54722
+    remove_trait = gom_trait_personal_54725
+    remove_trait = gom_trait_personal_54726
+    remove_trait = gom_trait_personal_54728
+    remove_trait = gom_trait_personal_54730
+    remove_trait = gom_trait_personal_54734
+    remove_trait = gom_trait_personal_54736
+    remove_trait = gom_trait_personal_54739
+    remove_trait = gom_trait_personal_54741
+    remove_trait = gom_trait_personal_54744
+    remove_trait = gom_trait_personal_54749
+    remove_trait = gom_trait_personal_54751
+    remove_trait = gom_trait_personal_54753
+    remove_trait = gom_trait_personal_54756
+    remove_trait = gom_trait_personal_54759
+    remove_trait = gom_trait_personal_54763
+    remove_trait = gom_trait_personal_54765
+    remove_trait = gom_trait_personal_54767
+    remove_trait = gom_trait_personal_54769
+    remove_trait = gom_trait_personal_54773
+    remove_trait = gom_trait_personal_54779
+    remove_trait = gom_trait_personal_54780
+    remove_trait = gom_trait_personal_54782
+    remove_trait = gom_trait_personal_54785
+    remove_trait = gom_trait_personal_54786
+    remove_trait = gom_trait_personal_54792
+    remove_trait = gom_trait_personal_54796
+    remove_trait = gom_trait_personal_54798
+    remove_trait = gom_trait_personal_54800
+    remove_trait = gom_trait_personal_54804
+    remove_trait = gom_trait_personal_54807
+    remove_trait = gom_trait_personal_54811
+    remove_trait = gom_trait_personal_54814
+    remove_trait = gom_trait_personal_54818
+    remove_trait = gom_trait_personal_54820
+    remove_trait = gom_trait_personal_54823
+    remove_trait = gom_trait_personal_54827
+    remove_trait = gom_trait_personal_54829
+    remove_trait = gom_trait_personal_54832
+    remove_trait = gom_trait_personal_54836
+    remove_trait = gom_trait_personal_54840
+    remove_trait = gom_trait_personal_54843
+    remove_trait = gom_trait_personal_54847
+    remove_trait = gom_trait_personal_54850
+    remove_trait = gom_trait_personal_54852
+    remove_trait = gom_trait_personal_54853
+    remove_trait = gom_trait_personal_54856
+    remove_trait = gom_trait_personal_54858
+    remove_trait = gom_trait_personal_54859
+    remove_trait = gom_trait_personal_54862
+    remove_trait = gom_trait_personal_54865
+    remove_trait = gom_trait_personal_54868
+    remove_trait = gom_trait_personal_54871
+    remove_trait = gom_trait_personal_54874
+    remove_trait = gom_trait_personal_54877
+    remove_trait = gom_trait_personal_54880
+    remove_trait = gom_trait_personal_54881
+    remove_trait = gom_trait_personal_54885
+    remove_trait = gom_trait_personal_54888
+    remove_trait = gom_trait_personal_54891
+    remove_trait = gom_trait_personal_54893
+    remove_trait = gom_trait_personal_54898
+    remove_trait = gom_trait_personal_54902
+    remove_trait = gom_trait_personal_54906
+    remove_trait = gom_trait_personal_54910
+    remove_trait = gom_trait_personal_54914
+    remove_trait = gom_trait_personal_54917
+    remove_trait = gom_trait_personal_54922
+    remove_trait = gom_trait_personal_54925
+    remove_trait = gom_trait_personal_54926
+    remove_trait = gom_trait_personal_54928
+    remove_trait = gom_trait_personal_54932
+    remove_trait = gom_trait_personal_54936
+    remove_trait = gom_trait_personal_54939
+    remove_trait = gom_trait_personal_54942
+    remove_trait = gom_trait_personal_54944
+    remove_trait = gom_trait_personal_54946
+    remove_trait = gom_trait_personal_54950
+    remove_trait = gom_trait_personal_54955
+    remove_trait = gom_trait_personal_54959
+    remove_trait = gom_trait_personal_54961
+    remove_trait = gom_trait_personal_54965
+    remove_trait = gom_trait_personal_54969
+    remove_trait = gom_trait_personal_54972
+    remove_trait = gom_trait_personal_54975
+    remove_trait = gom_trait_personal_54979
+    remove_trait = gom_trait_personal_54981
+    remove_trait = gom_trait_personal_54984
+    remove_trait = gom_trait_personal_54988
+    remove_trait = gom_trait_personal_54991
+    remove_trait = gom_trait_personal_54995
+    remove_trait = gom_trait_personal_54998
+    remove_trait = gom_trait_personal_55001
+    remove_trait = gom_trait_personal_55006
+    remove_trait = gom_trait_personal_55010
+    remove_trait = gom_trait_personal_55012
+    remove_trait = gom_trait_personal_55015
+    remove_trait = gom_trait_personal_55017
+    remove_trait = gom_trait_personal_55021
+    remove_trait = gom_trait_personal_55025
+    remove_trait = gom_trait_personal_55030
+    remove_trait = gom_trait_personal_55034
+    remove_trait = gom_trait_personal_55038
+    remove_trait = gom_trait_personal_55042
+    remove_trait = gom_trait_personal_55046
+    remove_trait = gom_trait_personal_55050
+    remove_trait = gom_trait_personal_55054
+    remove_trait = gom_trait_personal_55058
+    remove_trait = gom_trait_personal_55062
+    remove_trait = gom_trait_personal_55065
+    remove_trait = gom_trait_personal_55069
+    remove_trait = gom_trait_personal_55072
+    remove_trait = gom_trait_personal_55076
+    remove_trait = gom_trait_personal_55079
+    remove_trait = gom_trait_personal_55083
+    remove_trait = gom_trait_personal_55087
+    remove_trait = gom_trait_personal_55088
+    remove_trait = gom_trait_personal_55091
+    remove_trait = gom_trait_personal_55095
+    remove_trait = gom_trait_personal_55098
+    remove_trait = gom_trait_personal_55104
+    remove_trait = gom_trait_personal_55108
+    remove_trait = gom_trait_personal_55113
+    remove_trait = gom_trait_personal_55117
+    remove_trait = gom_trait_personal_55121
+    remove_trait = gom_trait_personal_55125
+    remove_trait = gom_trait_personal_55130
+    remove_trait = gom_trait_personal_55134
+    remove_trait = gom_trait_personal_55137
+    remove_trait = gom_trait_personal_55140
+    remove_trait = gom_trait_personal_55144
+    remove_trait = gom_trait_personal_55148
+    remove_trait = gom_trait_personal_55151
+    remove_trait = gom_trait_personal_55155
+    remove_trait = gom_trait_personal_55159
+    remove_trait = gom_trait_personal_55162
+    remove_trait = gom_trait_personal_55165
+    remove_trait = gom_trait_personal_55169
+    remove_trait = gom_trait_personal_55173
+    remove_trait = gom_trait_personal_55176
+    remove_trait = gom_trait_personal_55179
+    remove_trait = gom_trait_personal_55184
+    remove_trait = gom_trait_personal_55188
+    remove_trait = gom_trait_personal_55191
+    remove_trait = gom_trait_personal_55195
+    remove_trait = gom_trait_personal_55199
+    remove_trait = gom_trait_personal_55203
+    remove_trait = gom_trait_personal_55207
+    remove_trait = gom_trait_personal_55211
+    remove_trait = gom_trait_personal_55215
+    remove_trait = gom_trait_personal_55219
+    remove_trait = gom_trait_personal_55224
+    remove_trait = gom_trait_personal_55228
+    remove_trait = gom_trait_personal_55232
+    remove_trait = gom_trait_personal_55236
+    remove_trait = gom_trait_personal_55239
+    remove_trait = gom_trait_personal_55243
+    remove_trait = gom_trait_personal_55247
+    remove_trait = gom_trait_personal_55251
+    remove_trait = gom_trait_personal_55254
+    remove_trait = gom_trait_personal_55259
+    remove_trait = gom_trait_personal_55263
+    remove_trait = gom_trait_personal_55267
+    remove_trait = gom_trait_personal_55270
+    remove_trait = gom_trait_personal_55273
+    remove_trait = gom_trait_personal_55276
+    remove_trait = gom_trait_personal_55280
+    remove_trait = gom_trait_personal_55284
+    remove_trait = gom_trait_personal_55288
+    remove_trait = gom_trait_personal_55292
+    remove_trait = gom_trait_personal_55296
+    remove_trait = gom_trait_personal_55300
+    remove_trait = gom_trait_personal_55305
+    remove_trait = gom_trait_personal_55309
+    remove_trait = gom_trait_personal_55313
+    remove_trait = gom_trait_personal_55317
+    remove_trait = gom_trait_personal_55321
+    remove_trait = gom_trait_personal_55324
+    remove_trait = gom_trait_personal_55328
+    remove_trait = gom_trait_personal_55332
+    remove_trait = gom_trait_personal_55335
+    remove_trait = gom_trait_personal_55338
+    remove_trait = gom_trait_personal_55340
+    remove_trait = gom_trait_personal_55343
+    remove_trait = gom_trait_personal_55347
+    remove_trait = gom_trait_personal_55350
+    remove_trait = gom_trait_personal_55354
+    remove_trait = gom_trait_personal_55358
+    remove_trait = gom_trait_personal_55362
+    remove_trait = gom_trait_personal_55366
+    remove_trait = gom_trait_personal_55370
+    remove_trait = gom_trait_personal_55376
+    remove_trait = gom_trait_personal_55380
+    remove_trait = gom_trait_personal_55383
+    remove_trait = gom_trait_personal_55387
+    remove_trait = gom_trait_personal_55391
+    remove_trait = gom_trait_personal_55397
+    remove_trait = gom_trait_personal_55401
+    remove_trait = gom_trait_personal_55405
+    remove_trait = gom_trait_personal_55409
+    remove_trait = gom_trait_personal_55414
+    remove_trait = gom_trait_personal_55419
+    remove_trait = gom_trait_personal_55423
+    remove_trait = gom_trait_personal_55427
+    remove_trait = gom_trait_personal_55432
+    remove_trait = gom_trait_personal_55438
+    remove_trait = gom_trait_personal_55442
+    remove_trait = gom_trait_personal_55447
+    remove_trait = gom_trait_personal_55452
+    remove_trait = gom_trait_personal_55456
+    remove_trait = gom_trait_personal_55460
+    remove_trait = gom_trait_personal_55464
+    remove_trait = gom_trait_personal_55468
+    remove_trait = gom_trait_personal_55471
+    remove_trait = gom_trait_personal_55475
+    remove_trait = gom_trait_personal_55479
+    remove_trait = gom_trait_personal_55484
+    remove_trait = gom_trait_personal_55487
+    remove_trait = gom_trait_personal_55491
+    remove_trait = gom_trait_personal_55495
+    remove_trait = gom_trait_personal_55499
+    remove_trait = gom_trait_personal_55503
+    remove_trait = gom_trait_personal_55507
+    remove_trait = gom_trait_personal_55512
+    remove_trait = gom_trait_personal_55516
+    remove_trait = gom_trait_personal_55521
+    remove_trait = gom_trait_personal_55526
+    remove_trait = gom_trait_personal_55530
+    remove_trait = gom_trait_personal_55534
+    remove_trait = gom_trait_personal_55539
+    remove_trait = gom_trait_personal_55543
+}
+

@@ -1,0 +1,26 @@
+﻿l_english:
+ gom_research_quest.title: "Magic Research"
+
+# ===== 1000: Discovery Quest =========================================================================================
+# The character is too inexperienced to make any meaningful progress. This is a 10 stage quest that leads to
+# the character gaining their first perk.
+# =====================================================================================================================
+ gom_research_quest.1000.1_desc: "Page after page, the words starts to blend. I rummage through the musings of lunatics and philosophers alike and this unknown element remains a mystery. That is not surprising, as tomes of actual value would have long since been burned zealots or kept safe by witches. Does a true grimoire exist in this realm?\n\nBut as I read and flip through countless pages It seems I am getting closer to the truth somehow.\n\nKeep going, my instincts tell me."
+ gom_research_quest.1000.2_desc: "Nothing. Absolutely nothing! That's the whole pile! I shove all the useless paper off my desk and slam my hands down in frustration.\n\nThere is only so much philosophical sermon I can stand. But there is a silver lining to this: at least now I know I will have to search elsewhere."
+ gom_research_quest.1000.3_desc: "During my travels I have searched far and wide for clues. What are the lights that I see under the moonlight? What is this sensation flowing through my veins when I close my eyes? Tomes hold no answers and my priest may be suspecting me to be a heretic.\n\nAm I trully alone?"
+ gom_research_quest.1000.4_desc: "I have given up hope on finding answers in written word. But I refuse to give up.\n\nMy research guides me inside my study, where I have arranged a space to experiment. If no one will give me answers, I shall find my own."
+ gom_research_quest.1000.5_desc: "Every full moon I guide myself through the darkness with a single candle towards my study. The moonlight reveals the lights, little specs of dust that glow in the dark. Too many to count, and the glowing flakes disappear when I touch them.\n\nNo, I can clearly feel them permeate my skin. It's bizarre."
+ gom_research_quest.1000.6_desc: "To appease my priest, I find myself praying in silence more often. The quiet atmosphere lets me feel things I wouldn't otherwise. Everything around me is flowing, never at rest. Even wood and stone has it, and gold trinkets in particular... they are gleaming with that invisible light."
+ gom_research_quest.1000.7_desc: "Progress, at last.\n\nIt all came from the most unlikely of places, a wooden toy a child dropped. It wasn't made of gold or silver, and yet its presence was instantly captivating. It was overflowing with that invisible energy.\n\nWhy? Why a wooden toy and not a jeweled necklace? I have a feeling this hint will lead me down the right path."
+ gom_research_quest.1000.8_desc: "Neither in religious tomes nor heretic journals did I find my answer, but in an old children's tale of all places. The hints were peppered thorought the poem. The lights dancing under the moonlight, the dark forest gleaming with light... and a mystical lake where fairies lived. I have no idea where it might be or how to find it, but I got something else of value from this story.\n\nThis mysterious force is called magic."
+ gom_research_quest.1000.9_desc: "I have come to call the lights as mana in my writings. I call it a disease to avoid drawing suspiscions of heresy should my journal be discovered. Now that I know what it is, it has become much easier to further my understanding of this strange phenomena."
+ gom_research_quest.1000.10_desc: "Mana is everywhere. Flesh and bone, air and water, fire and soil. It is in constant flow and is constantly stirring and shifting. Through some effort I can absorb the mana around me, and I feel the power swell within me.\n\nIt has been years, and finally I have found the path I was seeking. It will be difficult, but the art of Magecraft mey be within my grasp.\n\nAnd if not me, my heir shall carry my will."
+ gom_research_quest.1000.a: "Interesting"
+ gom_research_quest.1000.a.flavor: "You inch ever so slightly closer to a breakthrough."
+
+ gom_research_quest.1000.a2: "Fascinating!"
+ gom_research_quest.1000.a2.flavor: "You can feel it, you are almost there!"
+
+ gom_research_quest.1000.a3: "Onwards."
+ gom_research_quest.1000.a3.flavor: "Congratulations, you have unlocked the first step towards mastering magic. You will most likely die before making any meaningful progress, but should you pass your knowledge to the next generation your efforts will not be in vain."
+ 

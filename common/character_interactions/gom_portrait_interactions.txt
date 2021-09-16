@@ -1,0 +1,97 @@
+﻿gom_hide_portrait_interaction = {
+	category = interaction_category_religion
+	desc = gom_hide_portrait_interaction_desc
+	common_interaction = no
+	use_diplomatic_range = no
+	is_shown = {
+		scope:recipient = {
+			NOT = {
+				has_trait = gom_portrait
+			}
+		}
+	}
+
+	is_valid = {
+		
+	}
+
+	auto_accept = yes
+	on_auto_accept = {
+		scope:recipient = {
+			add_trait = gom_portrait
+		}
+	}
+}
+
+gom_show_portrait_interaction = {
+	category = interaction_category_religion
+	desc = gom_show_portrait_interaction_desc
+	common_interaction = no
+	use_diplomatic_range = no
+	is_shown = {
+		scope:recipient = {
+			has_trait = gom_portrait
+		}
+	}
+
+	is_valid = {
+		
+	}
+
+	auto_accept = yes
+	on_auto_accept = {
+		scope:recipient = {
+			remove_trait = gom_portrait
+		}
+	}
+}
+
+gom_animefy_interaction = {
+	category = interaction_category_religion
+	desc = gom_animefy_interaction_desc
+	common_interaction = no
+	use_diplomatic_range = no
+	is_shown = {
+		scope:recipient = {
+			gom_servant_trigger = no
+		}
+	}
+
+	is_valid = {
+		scope:recipient = {
+			gom_servant_trigger = no
+		}
+	}
+
+	auto_accept = yes
+	on_auto_accept = {
+		scope:recipient = {
+			gom_add_servant_portrait = yes
+		}
+	}
+}
+
+gom_deanimefy_interaction = {
+	category = interaction_category_religion
+	desc = gom_deanimefy_interaction_desc
+	common_interaction = no
+	use_diplomatic_range = no
+	is_shown = {
+		scope:recipient = {
+			gom_servant_trigger = yes
+		}
+	}
+
+	is_valid = {
+		scope:recipient = {
+			gom_servant_trigger = yes
+		}
+	}
+
+	auto_accept = yes
+	on_auto_accept = {
+		scope:recipient = {
+			gom_remove_servant_portrait = yes
+		}
+	}
+}

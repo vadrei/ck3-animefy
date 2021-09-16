@@ -1,0 +1,1500 @@
+﻿gom_trait_personal_54506 = {
+    index = 54506
+    icon = "trait_personal_54506_trait_diffuse.dds"
+}
+
+gom_trait_personal_54510 = {
+    index = 54510
+    icon = "trait_personal_54510_trait_diffuse.dds"
+}
+
+gom_trait_personal_54511 = {
+    index = 54511
+    icon = "trait_personal_54511_trait_diffuse.dds"
+}
+
+gom_trait_personal_54513 = {
+    index = 54513
+    icon = "trait_personal_54513_trait_diffuse.dds"
+}
+
+gom_trait_personal_54517 = {
+    index = 54517
+    icon = "trait_personal_54517_trait_diffuse.dds"
+}
+
+gom_trait_personal_54521 = {
+    index = 54521
+    icon = "trait_personal_54521_trait_diffuse.dds"
+}
+
+gom_trait_personal_54525 = {
+    index = 54525
+    icon = "trait_personal_54525_trait_diffuse.dds"
+}
+
+gom_trait_personal_54528 = {
+    index = 54528
+    icon = "trait_personal_54528_trait_diffuse.dds"
+}
+
+gom_trait_personal_54531 = {
+    index = 54531
+    icon = "trait_personal_54531_trait_diffuse.dds"
+}
+
+gom_trait_personal_54535 = {
+    index = 54535
+    icon = "trait_personal_54535_trait_diffuse.dds"
+}
+
+gom_trait_personal_54539 = {
+    index = 54539
+    icon = "trait_personal_54539_trait_diffuse.dds"
+}
+
+gom_trait_personal_54541 = {
+    index = 54541
+    icon = "trait_personal_54541_trait_diffuse.dds"
+}
+
+gom_trait_personal_54544 = {
+    index = 54544
+    icon = "trait_personal_54544_trait_diffuse.dds"
+}
+
+gom_trait_personal_54548 = {
+    index = 54548
+    icon = "trait_personal_54548_trait_diffuse.dds"
+}
+
+gom_trait_personal_54553 = {
+    index = 54553
+    icon = "trait_personal_54553_trait_diffuse.dds"
+}
+
+gom_trait_personal_54556 = {
+    index = 54556
+    icon = "trait_personal_54556_trait_diffuse.dds"
+}
+
+gom_trait_personal_54559 = {
+    index = 54559
+    icon = "trait_personal_54559_trait_diffuse.dds"
+}
+
+gom_trait_personal_54562 = {
+    index = 54562
+    icon = "trait_personal_54562_trait_diffuse.dds"
+}
+
+gom_trait_personal_54566 = {
+    index = 54566
+    icon = "trait_personal_54566_trait_diffuse.dds"
+}
+
+gom_trait_personal_54569 = {
+    index = 54569
+    icon = "trait_personal_54569_trait_diffuse.dds"
+}
+
+gom_trait_personal_54572 = {
+    index = 54572
+    icon = "trait_personal_54572_trait_diffuse.dds"
+}
+
+gom_trait_personal_54574 = {
+    index = 54574
+    icon = "trait_personal_54574_trait_diffuse.dds"
+}
+
+gom_trait_personal_54578 = {
+    index = 54578
+    icon = "trait_personal_54578_trait_diffuse.dds"
+}
+
+gom_trait_personal_54581 = {
+    index = 54581
+    icon = "trait_personal_54581_trait_diffuse.dds"
+}
+
+gom_trait_personal_54585 = {
+    index = 54585
+    icon = "trait_personal_54585_trait_diffuse.dds"
+}
+
+gom_trait_personal_54588 = {
+    index = 54588
+    icon = "trait_personal_54588_trait_diffuse.dds"
+}
+
+gom_trait_personal_54591 = {
+    index = 54591
+    icon = "trait_personal_54591_trait_diffuse.dds"
+}
+
+gom_trait_personal_54594 = {
+    index = 54594
+    icon = "trait_personal_54594_trait_diffuse.dds"
+}
+
+gom_trait_personal_54597 = {
+    index = 54597
+    icon = "trait_personal_54597_trait_diffuse.dds"
+}
+
+gom_trait_personal_54601 = {
+    index = 54601
+    icon = "trait_personal_54601_trait_diffuse.dds"
+}
+
+gom_trait_personal_54606 = {
+    index = 54606
+    icon = "trait_personal_54606_trait_diffuse.dds"
+}
+
+gom_trait_personal_54610 = {
+    index = 54610
+    icon = "trait_personal_54610_trait_diffuse.dds"
+}
+
+gom_trait_personal_54614 = {
+    index = 54614
+    icon = "trait_personal_54614_trait_diffuse.dds"
+}
+
+gom_trait_personal_54618 = {
+    index = 54618
+    icon = "trait_personal_54618_trait_diffuse.dds"
+}
+
+gom_trait_personal_54621 = {
+    index = 54621
+    icon = "trait_personal_54621_trait_diffuse.dds"
+}
+
+gom_trait_personal_54624 = {
+    index = 54624
+    icon = "trait_personal_54624_trait_diffuse.dds"
+}
+
+gom_trait_personal_54628 = {
+    index = 54628
+    icon = "trait_personal_54628_trait_diffuse.dds"
+}
+
+gom_trait_personal_54629 = {
+    index = 54629
+    icon = "trait_personal_54629_trait_diffuse.dds"
+}
+
+gom_trait_personal_54634 = {
+    index = 54634
+    icon = "trait_personal_54634_trait_diffuse.dds"
+}
+
+gom_trait_personal_54638 = {
+    index = 54638
+    icon = "trait_personal_54638_trait_diffuse.dds"
+}
+
+gom_trait_personal_54639 = {
+    index = 54639
+    icon = "trait_personal_54639_trait_diffuse.dds"
+}
+
+gom_trait_personal_54643 = {
+    index = 54643
+    icon = "trait_personal_54643_trait_diffuse.dds"
+}
+
+gom_trait_personal_54647 = {
+    index = 54647
+    icon = "trait_personal_54647_trait_diffuse.dds"
+}
+
+gom_trait_personal_54648 = {
+    index = 54648
+    icon = "trait_personal_54648_trait_diffuse.dds"
+}
+
+gom_trait_personal_54652 = {
+    index = 54652
+    icon = "trait_personal_54652_trait_diffuse.dds"
+}
+
+gom_trait_personal_54654 = {
+    index = 54654
+    icon = "trait_personal_54654_trait_diffuse.dds"
+}
+
+gom_trait_personal_54656 = {
+    index = 54656
+    icon = "trait_personal_54656_trait_diffuse.dds"
+}
+
+gom_trait_personal_54660 = {
+    index = 54660
+    icon = "trait_personal_54660_trait_diffuse.dds"
+}
+
+gom_trait_personal_54663 = {
+    index = 54663
+    icon = "trait_personal_54663_trait_diffuse.dds"
+}
+
+gom_trait_personal_54667 = {
+    index = 54667
+    icon = "trait_personal_54667_trait_diffuse.dds"
+}
+
+gom_trait_personal_54669 = {
+    index = 54669
+    icon = "trait_personal_54669_trait_diffuse.dds"
+}
+
+gom_trait_personal_54671 = {
+    index = 54671
+    icon = "trait_personal_54671_trait_diffuse.dds"
+}
+
+gom_trait_personal_54674 = {
+    index = 54674
+    icon = "trait_personal_54674_trait_diffuse.dds"
+}
+
+gom_trait_personal_54677 = {
+    index = 54677
+    icon = "trait_personal_54677_trait_diffuse.dds"
+}
+
+gom_trait_personal_54678 = {
+    index = 54678
+    icon = "trait_personal_54678_trait_diffuse.dds"
+}
+
+gom_trait_personal_54681 = {
+    index = 54681
+    icon = "trait_personal_54681_trait_diffuse.dds"
+}
+
+gom_trait_personal_54684 = {
+    index = 54684
+    icon = "trait_personal_54684_trait_diffuse.dds"
+}
+
+gom_trait_personal_54685 = {
+    index = 54685
+    icon = "trait_personal_54685_trait_diffuse.dds"
+}
+
+gom_trait_personal_54689 = {
+    index = 54689
+    icon = "trait_personal_54689_trait_diffuse.dds"
+}
+
+gom_trait_personal_54692 = {
+    index = 54692
+    icon = "trait_personal_54692_trait_diffuse.dds"
+}
+
+gom_trait_personal_54695 = {
+    index = 54695
+    icon = "trait_personal_54695_trait_diffuse.dds"
+}
+
+gom_trait_personal_54697 = {
+    index = 54697
+    icon = "trait_personal_54697_trait_diffuse.dds"
+}
+
+gom_trait_personal_54700 = {
+    index = 54700
+    icon = "trait_personal_54700_trait_diffuse.dds"
+}
+
+gom_trait_personal_54702 = {
+    index = 54702
+    icon = "trait_personal_54702_trait_diffuse.dds"
+}
+
+gom_trait_personal_54704 = {
+    index = 54704
+    icon = "trait_personal_54704_trait_diffuse.dds"
+}
+
+gom_trait_personal_54708 = {
+    index = 54708
+    icon = "trait_personal_54708_trait_diffuse.dds"
+}
+
+gom_trait_personal_54711 = {
+    index = 54711
+    icon = "trait_personal_54711_trait_diffuse.dds"
+}
+
+gom_trait_personal_54714 = {
+    index = 54714
+    icon = "trait_personal_54714_trait_diffuse.dds"
+}
+
+gom_trait_personal_54718 = {
+    index = 54718
+    icon = "trait_personal_54718_trait_diffuse.dds"
+}
+
+gom_trait_personal_54722 = {
+    index = 54722
+    icon = "trait_personal_54722_trait_diffuse.dds"
+}
+
+gom_trait_personal_54725 = {
+    index = 54725
+    icon = "trait_personal_54725_trait_diffuse.dds"
+}
+
+gom_trait_personal_54726 = {
+    index = 54726
+    icon = "trait_personal_54726_trait_diffuse.dds"
+}
+
+gom_trait_personal_54728 = {
+    index = 54728
+    icon = "trait_personal_54728_trait_diffuse.dds"
+}
+
+gom_trait_personal_54730 = {
+    index = 54730
+    icon = "trait_personal_54730_trait_diffuse.dds"
+}
+
+gom_trait_personal_54734 = {
+    index = 54734
+    icon = "trait_personal_54734_trait_diffuse.dds"
+}
+
+gom_trait_personal_54736 = {
+    index = 54736
+    icon = "trait_personal_54736_trait_diffuse.dds"
+}
+
+gom_trait_personal_54739 = {
+    index = 54739
+    icon = "trait_personal_54739_trait_diffuse.dds"
+}
+
+gom_trait_personal_54741 = {
+    index = 54741
+    icon = "trait_personal_54741_trait_diffuse.dds"
+}
+
+gom_trait_personal_54744 = {
+    index = 54744
+    icon = "trait_personal_54744_trait_diffuse.dds"
+}
+
+gom_trait_personal_54749 = {
+    index = 54749
+    icon = "trait_personal_54749_trait_diffuse.dds"
+}
+
+gom_trait_personal_54751 = {
+    index = 54751
+    icon = "trait_personal_54751_trait_diffuse.dds"
+}
+
+gom_trait_personal_54753 = {
+    index = 54753
+    icon = "trait_personal_54753_trait_diffuse.dds"
+}
+
+gom_trait_personal_54756 = {
+    index = 54756
+    icon = "trait_personal_54756_trait_diffuse.dds"
+}
+
+gom_trait_personal_54759 = {
+    index = 54759
+    icon = "trait_personal_54759_trait_diffuse.dds"
+}
+
+gom_trait_personal_54763 = {
+    index = 54763
+    icon = "trait_personal_54763_trait_diffuse.dds"
+}
+
+gom_trait_personal_54765 = {
+    index = 54765
+    icon = "trait_personal_54765_trait_diffuse.dds"
+}
+
+gom_trait_personal_54767 = {
+    index = 54767
+    icon = "trait_personal_54767_trait_diffuse.dds"
+}
+
+gom_trait_personal_54769 = {
+    index = 54769
+    icon = "trait_personal_54769_trait_diffuse.dds"
+}
+
+gom_trait_personal_54773 = {
+    index = 54773
+    icon = "trait_personal_54773_trait_diffuse.dds"
+}
+
+gom_trait_personal_54779 = {
+    index = 54779
+    icon = "trait_personal_54779_trait_diffuse.dds"
+}
+
+gom_trait_personal_54780 = {
+    index = 54780
+    icon = "trait_personal_54780_trait_diffuse.dds"
+}
+
+gom_trait_personal_54782 = {
+    index = 54782
+    icon = "trait_personal_54782_trait_diffuse.dds"
+}
+
+gom_trait_personal_54785 = {
+    index = 54785
+    icon = "trait_personal_54785_trait_diffuse.dds"
+}
+
+gom_trait_personal_54786 = {
+    index = 54786
+    icon = "trait_personal_54786_trait_diffuse.dds"
+}
+
+gom_trait_personal_54792 = {
+    index = 54792
+    icon = "trait_personal_54792_trait_diffuse.dds"
+}
+
+gom_trait_personal_54796 = {
+    index = 54796
+    icon = "trait_personal_54796_trait_diffuse.dds"
+}
+
+gom_trait_personal_54798 = {
+    index = 54798
+    icon = "trait_personal_54798_trait_diffuse.dds"
+}
+
+gom_trait_personal_54800 = {
+    index = 54800
+    icon = "trait_personal_54800_trait_diffuse.dds"
+}
+
+gom_trait_personal_54804 = {
+    index = 54804
+    icon = "trait_personal_54804_trait_diffuse.dds"
+}
+
+gom_trait_personal_54807 = {
+    index = 54807
+    icon = "trait_personal_54807_trait_diffuse.dds"
+}
+
+gom_trait_personal_54811 = {
+    index = 54811
+    icon = "trait_personal_54811_trait_diffuse.dds"
+}
+
+gom_trait_personal_54814 = {
+    index = 54814
+    icon = "trait_personal_54814_trait_diffuse.dds"
+}
+
+gom_trait_personal_54818 = {
+    index = 54818
+    icon = "trait_personal_54818_trait_diffuse.dds"
+}
+
+gom_trait_personal_54820 = {
+    index = 54820
+    icon = "trait_personal_54820_trait_diffuse.dds"
+}
+
+gom_trait_personal_54823 = {
+    index = 54823
+    icon = "trait_personal_54823_trait_diffuse.dds"
+}
+
+gom_trait_personal_54827 = {
+    index = 54827
+    icon = "trait_personal_54827_trait_diffuse.dds"
+}
+
+gom_trait_personal_54829 = {
+    index = 54829
+    icon = "trait_personal_54829_trait_diffuse.dds"
+}
+
+gom_trait_personal_54832 = {
+    index = 54832
+    icon = "trait_personal_54832_trait_diffuse.dds"
+}
+
+gom_trait_personal_54836 = {
+    index = 54836
+    icon = "trait_personal_54836_trait_diffuse.dds"
+}
+
+gom_trait_personal_54840 = {
+    index = 54840
+    icon = "trait_personal_54840_trait_diffuse.dds"
+}
+
+gom_trait_personal_54843 = {
+    index = 54843
+    icon = "trait_personal_54843_trait_diffuse.dds"
+}
+
+gom_trait_personal_54847 = {
+    index = 54847
+    icon = "trait_personal_54847_trait_diffuse.dds"
+}
+
+gom_trait_personal_54850 = {
+    index = 54850
+    icon = "trait_personal_54850_trait_diffuse.dds"
+}
+
+gom_trait_personal_54852 = {
+    index = 54852
+    icon = "trait_personal_54852_trait_diffuse.dds"
+}
+
+gom_trait_personal_54853 = {
+    index = 54853
+    icon = "trait_personal_54853_trait_diffuse.dds"
+}
+
+gom_trait_personal_54856 = {
+    index = 54856
+    icon = "trait_personal_54856_trait_diffuse.dds"
+}
+
+gom_trait_personal_54858 = {
+    index = 54858
+    icon = "trait_personal_54858_trait_diffuse.dds"
+}
+
+gom_trait_personal_54859 = {
+    index = 54859
+    icon = "trait_personal_54859_trait_diffuse.dds"
+}
+
+gom_trait_personal_54862 = {
+    index = 54862
+    icon = "trait_personal_54862_trait_diffuse.dds"
+}
+
+gom_trait_personal_54865 = {
+    index = 54865
+    icon = "trait_personal_54865_trait_diffuse.dds"
+}
+
+gom_trait_personal_54868 = {
+    index = 54868
+    icon = "trait_personal_54868_trait_diffuse.dds"
+}
+
+gom_trait_personal_54871 = {
+    index = 54871
+    icon = "trait_personal_54871_trait_diffuse.dds"
+}
+
+gom_trait_personal_54874 = {
+    index = 54874
+    icon = "trait_personal_54874_trait_diffuse.dds"
+}
+
+gom_trait_personal_54877 = {
+    index = 54877
+    icon = "trait_personal_54877_trait_diffuse.dds"
+}
+
+gom_trait_personal_54880 = {
+    index = 54880
+    icon = "trait_personal_54880_trait_diffuse.dds"
+}
+
+gom_trait_personal_54881 = {
+    index = 54881
+    icon = "trait_personal_54881_trait_diffuse.dds"
+}
+
+gom_trait_personal_54885 = {
+    index = 54885
+    icon = "trait_personal_54885_trait_diffuse.dds"
+}
+
+gom_trait_personal_54888 = {
+    index = 54888
+    icon = "trait_personal_54888_trait_diffuse.dds"
+}
+
+gom_trait_personal_54891 = {
+    index = 54891
+    icon = "trait_personal_54891_trait_diffuse.dds"
+}
+
+gom_trait_personal_54893 = {
+    index = 54893
+    icon = "trait_personal_54893_trait_diffuse.dds"
+}
+
+gom_trait_personal_54898 = {
+    index = 54898
+    icon = "trait_personal_54898_trait_diffuse.dds"
+}
+
+gom_trait_personal_54902 = {
+    index = 54902
+    icon = "trait_personal_54902_trait_diffuse.dds"
+}
+
+gom_trait_personal_54906 = {
+    index = 54906
+    icon = "trait_personal_54906_trait_diffuse.dds"
+}
+
+gom_trait_personal_54910 = {
+    index = 54910
+    icon = "trait_personal_54910_trait_diffuse.dds"
+}
+
+gom_trait_personal_54914 = {
+    index = 54914
+    icon = "trait_personal_54914_trait_diffuse.dds"
+}
+
+gom_trait_personal_54917 = {
+    index = 54917
+    icon = "trait_personal_54917_trait_diffuse.dds"
+}
+
+gom_trait_personal_54922 = {
+    index = 54922
+    icon = "trait_personal_54922_trait_diffuse.dds"
+}
+
+gom_trait_personal_54925 = {
+    index = 54925
+    icon = "trait_personal_54925_trait_diffuse.dds"
+}
+
+gom_trait_personal_54926 = {
+    index = 54926
+    icon = "trait_personal_54926_trait_diffuse.dds"
+}
+
+gom_trait_personal_54928 = {
+    index = 54928
+    icon = "trait_personal_54928_trait_diffuse.dds"
+}
+
+gom_trait_personal_54932 = {
+    index = 54932
+    icon = "trait_personal_54932_trait_diffuse.dds"
+}
+
+gom_trait_personal_54936 = {
+    index = 54936
+    icon = "trait_personal_54936_trait_diffuse.dds"
+}
+
+gom_trait_personal_54939 = {
+    index = 54939
+    icon = "trait_personal_54939_trait_diffuse.dds"
+}
+
+gom_trait_personal_54942 = {
+    index = 54942
+    icon = "trait_personal_54942_trait_diffuse.dds"
+}
+
+gom_trait_personal_54944 = {
+    index = 54944
+    icon = "trait_personal_54944_trait_diffuse.dds"
+}
+
+gom_trait_personal_54946 = {
+    index = 54946
+    icon = "trait_personal_54946_trait_diffuse.dds"
+}
+
+gom_trait_personal_54950 = {
+    index = 54950
+    icon = "trait_personal_54950_trait_diffuse.dds"
+}
+
+gom_trait_personal_54955 = {
+    index = 54955
+    icon = "trait_personal_54955_trait_diffuse.dds"
+}
+
+gom_trait_personal_54959 = {
+    index = 54959
+    icon = "trait_personal_54959_trait_diffuse.dds"
+}
+
+gom_trait_personal_54961 = {
+    index = 54961
+    icon = "trait_personal_54961_trait_diffuse.dds"
+}
+
+gom_trait_personal_54965 = {
+    index = 54965
+    icon = "trait_personal_54965_trait_diffuse.dds"
+}
+
+gom_trait_personal_54969 = {
+    index = 54969
+    icon = "trait_personal_54969_trait_diffuse.dds"
+}
+
+gom_trait_personal_54972 = {
+    index = 54972
+    icon = "trait_personal_54972_trait_diffuse.dds"
+}
+
+gom_trait_personal_54975 = {
+    index = 54975
+    icon = "trait_personal_54975_trait_diffuse.dds"
+}
+
+gom_trait_personal_54979 = {
+    index = 54979
+    icon = "trait_personal_54979_trait_diffuse.dds"
+}
+
+gom_trait_personal_54981 = {
+    index = 54981
+    icon = "trait_personal_54981_trait_diffuse.dds"
+}
+
+gom_trait_personal_54984 = {
+    index = 54984
+    icon = "trait_personal_54984_trait_diffuse.dds"
+}
+
+gom_trait_personal_54988 = {
+    index = 54988
+    icon = "trait_personal_54988_trait_diffuse.dds"
+}
+
+gom_trait_personal_54991 = {
+    index = 54991
+    icon = "trait_personal_54991_trait_diffuse.dds"
+}
+
+gom_trait_personal_54995 = {
+    index = 54995
+    icon = "trait_personal_54995_trait_diffuse.dds"
+}
+
+gom_trait_personal_54998 = {
+    index = 54998
+    icon = "trait_personal_54998_trait_diffuse.dds"
+}
+
+gom_trait_personal_55001 = {
+    index = 55001
+    icon = "trait_personal_55001_trait_diffuse.dds"
+}
+
+gom_trait_personal_55006 = {
+    index = 55006
+    icon = "trait_personal_55006_trait_diffuse.dds"
+}
+
+gom_trait_personal_55010 = {
+    index = 55010
+    icon = "trait_personal_55010_trait_diffuse.dds"
+}
+
+gom_trait_personal_55012 = {
+    index = 55012
+    icon = "trait_personal_55012_trait_diffuse.dds"
+}
+
+gom_trait_personal_55015 = {
+    index = 55015
+    icon = "trait_personal_55015_trait_diffuse.dds"
+}
+
+gom_trait_personal_55017 = {
+    index = 55017
+    icon = "trait_personal_55017_trait_diffuse.dds"
+}
+
+gom_trait_personal_55021 = {
+    index = 55021
+    icon = "trait_personal_55021_trait_diffuse.dds"
+}
+
+gom_trait_personal_55025 = {
+    index = 55025
+    icon = "trait_personal_55025_trait_diffuse.dds"
+}
+
+gom_trait_personal_55030 = {
+    index = 55030
+    icon = "trait_personal_55030_trait_diffuse.dds"
+}
+
+gom_trait_personal_55034 = {
+    index = 55034
+    icon = "trait_personal_55034_trait_diffuse.dds"
+}
+
+gom_trait_personal_55038 = {
+    index = 55038
+    icon = "trait_personal_55038_trait_diffuse.dds"
+}
+
+gom_trait_personal_55042 = {
+    index = 55042
+    icon = "trait_personal_55042_trait_diffuse.dds"
+}
+
+gom_trait_personal_55046 = {
+    index = 55046
+    icon = "trait_personal_55046_trait_diffuse.dds"
+}
+
+gom_trait_personal_55050 = {
+    index = 55050
+    icon = "trait_personal_55050_trait_diffuse.dds"
+}
+
+gom_trait_personal_55054 = {
+    index = 55054
+    icon = "trait_personal_55054_trait_diffuse.dds"
+}
+
+gom_trait_personal_55058 = {
+    index = 55058
+    icon = "trait_personal_55058_trait_diffuse.dds"
+}
+
+gom_trait_personal_55062 = {
+    index = 55062
+    icon = "trait_personal_55062_trait_diffuse.dds"
+}
+
+gom_trait_personal_55065 = {
+    index = 55065
+    icon = "trait_personal_55065_trait_diffuse.dds"
+}
+
+gom_trait_personal_55069 = {
+    index = 55069
+    icon = "trait_personal_55069_trait_diffuse.dds"
+}
+
+gom_trait_personal_55072 = {
+    index = 55072
+    icon = "trait_personal_55072_trait_diffuse.dds"
+}
+
+gom_trait_personal_55076 = {
+    index = 55076
+    icon = "trait_personal_55076_trait_diffuse.dds"
+}
+
+gom_trait_personal_55079 = {
+    index = 55079
+    icon = "trait_personal_55079_trait_diffuse.dds"
+}
+
+gom_trait_personal_55083 = {
+    index = 55083
+    icon = "trait_personal_55083_trait_diffuse.dds"
+}
+
+gom_trait_personal_55087 = {
+    index = 55087
+    icon = "trait_personal_55087_trait_diffuse.dds"
+}
+
+gom_trait_personal_55088 = {
+    index = 55088
+    icon = "trait_personal_55088_trait_diffuse.dds"
+}
+
+gom_trait_personal_55091 = {
+    index = 55091
+    icon = "trait_personal_55091_trait_diffuse.dds"
+}
+
+gom_trait_personal_55095 = {
+    index = 55095
+    icon = "trait_personal_55095_trait_diffuse.dds"
+}
+
+gom_trait_personal_55098 = {
+    index = 55098
+    icon = "trait_personal_55098_trait_diffuse.dds"
+}
+
+gom_trait_personal_55104 = {
+    index = 55104
+    icon = "trait_personal_55104_trait_diffuse.dds"
+}
+
+gom_trait_personal_55108 = {
+    index = 55108
+    icon = "trait_personal_55108_trait_diffuse.dds"
+}
+
+gom_trait_personal_55113 = {
+    index = 55113
+    icon = "trait_personal_55113_trait_diffuse.dds"
+}
+
+gom_trait_personal_55117 = {
+    index = 55117
+    icon = "trait_personal_55117_trait_diffuse.dds"
+}
+
+gom_trait_personal_55121 = {
+    index = 55121
+    icon = "trait_personal_55121_trait_diffuse.dds"
+}
+
+gom_trait_personal_55125 = {
+    index = 55125
+    icon = "trait_personal_55125_trait_diffuse.dds"
+}
+
+gom_trait_personal_55130 = {
+    index = 55130
+    icon = "trait_personal_55130_trait_diffuse.dds"
+}
+
+gom_trait_personal_55134 = {
+    index = 55134
+    icon = "trait_personal_55134_trait_diffuse.dds"
+}
+
+gom_trait_personal_55137 = {
+    index = 55137
+    icon = "trait_personal_55137_trait_diffuse.dds"
+}
+
+gom_trait_personal_55140 = {
+    index = 55140
+    icon = "trait_personal_55140_trait_diffuse.dds"
+}
+
+gom_trait_personal_55144 = {
+    index = 55144
+    icon = "trait_personal_55144_trait_diffuse.dds"
+}
+
+gom_trait_personal_55148 = {
+    index = 55148
+    icon = "trait_personal_55148_trait_diffuse.dds"
+}
+
+gom_trait_personal_55151 = {
+    index = 55151
+    icon = "trait_personal_55151_trait_diffuse.dds"
+}
+
+gom_trait_personal_55155 = {
+    index = 55155
+    icon = "trait_personal_55155_trait_diffuse.dds"
+}
+
+gom_trait_personal_55159 = {
+    index = 55159
+    icon = "trait_personal_55159_trait_diffuse.dds"
+}
+
+gom_trait_personal_55162 = {
+    index = 55162
+    icon = "trait_personal_55162_trait_diffuse.dds"
+}
+
+gom_trait_personal_55165 = {
+    index = 55165
+    icon = "trait_personal_55165_trait_diffuse.dds"
+}
+
+gom_trait_personal_55169 = {
+    index = 55169
+    icon = "trait_personal_55169_trait_diffuse.dds"
+}
+
+gom_trait_personal_55173 = {
+    index = 55173
+    icon = "trait_personal_55173_trait_diffuse.dds"
+}
+
+gom_trait_personal_55176 = {
+    index = 55176
+    icon = "trait_personal_55176_trait_diffuse.dds"
+}
+
+gom_trait_personal_55179 = {
+    index = 55179
+    icon = "trait_personal_55179_trait_diffuse.dds"
+}
+
+gom_trait_personal_55184 = {
+    index = 55184
+    icon = "trait_personal_55184_trait_diffuse.dds"
+}
+
+gom_trait_personal_55188 = {
+    index = 55188
+    icon = "trait_personal_55188_trait_diffuse.dds"
+}
+
+gom_trait_personal_55191 = {
+    index = 55191
+    icon = "trait_personal_55191_trait_diffuse.dds"
+}
+
+gom_trait_personal_55195 = {
+    index = 55195
+    icon = "trait_personal_55195_trait_diffuse.dds"
+}
+
+gom_trait_personal_55199 = {
+    index = 55199
+    icon = "trait_personal_55199_trait_diffuse.dds"
+}
+
+gom_trait_personal_55203 = {
+    index = 55203
+    icon = "trait_personal_55203_trait_diffuse.dds"
+}
+
+gom_trait_personal_55207 = {
+    index = 55207
+    icon = "trait_personal_55207_trait_diffuse.dds"
+}
+
+gom_trait_personal_55211 = {
+    index = 55211
+    icon = "trait_personal_55211_trait_diffuse.dds"
+}
+
+gom_trait_personal_55215 = {
+    index = 55215
+    icon = "trait_personal_55215_trait_diffuse.dds"
+}
+
+gom_trait_personal_55219 = {
+    index = 55219
+    icon = "trait_personal_55219_trait_diffuse.dds"
+}
+
+gom_trait_personal_55224 = {
+    index = 55224
+    icon = "trait_personal_55224_trait_diffuse.dds"
+}
+
+gom_trait_personal_55228 = {
+    index = 55228
+    icon = "trait_personal_55228_trait_diffuse.dds"
+}
+
+gom_trait_personal_55232 = {
+    index = 55232
+    icon = "trait_personal_55232_trait_diffuse.dds"
+}
+
+gom_trait_personal_55236 = {
+    index = 55236
+    icon = "trait_personal_55236_trait_diffuse.dds"
+}
+
+gom_trait_personal_55239 = {
+    index = 55239
+    icon = "trait_personal_55239_trait_diffuse.dds"
+}
+
+gom_trait_personal_55243 = {
+    index = 55243
+    icon = "trait_personal_55243_trait_diffuse.dds"
+}
+
+gom_trait_personal_55247 = {
+    index = 55247
+    icon = "trait_personal_55247_trait_diffuse.dds"
+}
+
+gom_trait_personal_55251 = {
+    index = 55251
+    icon = "trait_personal_55251_trait_diffuse.dds"
+}
+
+gom_trait_personal_55254 = {
+    index = 55254
+    icon = "trait_personal_55254_trait_diffuse.dds"
+}
+
+gom_trait_personal_55259 = {
+    index = 55259
+    icon = "trait_personal_55259_trait_diffuse.dds"
+}
+
+gom_trait_personal_55263 = {
+    index = 55263
+    icon = "trait_personal_55263_trait_diffuse.dds"
+}
+
+gom_trait_personal_55267 = {
+    index = 55267
+    icon = "trait_personal_55267_trait_diffuse.dds"
+}
+
+gom_trait_personal_55270 = {
+    index = 55270
+    icon = "trait_personal_55270_trait_diffuse.dds"
+}
+
+gom_trait_personal_55273 = {
+    index = 55273
+    icon = "trait_personal_55273_trait_diffuse.dds"
+}
+
+gom_trait_personal_55276 = {
+    index = 55276
+    icon = "trait_personal_55276_trait_diffuse.dds"
+}
+
+gom_trait_personal_55280 = {
+    index = 55280
+    icon = "trait_personal_55280_trait_diffuse.dds"
+}
+
+gom_trait_personal_55284 = {
+    index = 55284
+    icon = "trait_personal_55284_trait_diffuse.dds"
+}
+
+gom_trait_personal_55288 = {
+    index = 55288
+    icon = "trait_personal_55288_trait_diffuse.dds"
+}
+
+gom_trait_personal_55292 = {
+    index = 55292
+    icon = "trait_personal_55292_trait_diffuse.dds"
+}
+
+gom_trait_personal_55296 = {
+    index = 55296
+    icon = "trait_personal_55296_trait_diffuse.dds"
+}
+
+gom_trait_personal_55300 = {
+    index = 55300
+    icon = "trait_personal_55300_trait_diffuse.dds"
+}
+
+gom_trait_personal_55305 = {
+    index = 55305
+    icon = "trait_personal_55305_trait_diffuse.dds"
+}
+
+gom_trait_personal_55309 = {
+    index = 55309
+    icon = "trait_personal_55309_trait_diffuse.dds"
+}
+
+gom_trait_personal_55313 = {
+    index = 55313
+    icon = "trait_personal_55313_trait_diffuse.dds"
+}
+
+gom_trait_personal_55317 = {
+    index = 55317
+    icon = "trait_personal_55317_trait_diffuse.dds"
+}
+
+gom_trait_personal_55321 = {
+    index = 55321
+    icon = "trait_personal_55321_trait_diffuse.dds"
+}
+
+gom_trait_personal_55324 = {
+    index = 55324
+    icon = "trait_personal_55324_trait_diffuse.dds"
+}
+
+gom_trait_personal_55328 = {
+    index = 55328
+    icon = "trait_personal_55328_trait_diffuse.dds"
+}
+
+gom_trait_personal_55332 = {
+    index = 55332
+    icon = "trait_personal_55332_trait_diffuse.dds"
+}
+
+gom_trait_personal_55335 = {
+    index = 55335
+    icon = "trait_personal_55335_trait_diffuse.dds"
+}
+
+gom_trait_personal_55338 = {
+    index = 55338
+    icon = "trait_personal_55338_trait_diffuse.dds"
+}
+
+gom_trait_personal_55340 = {
+    index = 55340
+    icon = "trait_personal_55340_trait_diffuse.dds"
+}
+
+gom_trait_personal_55343 = {
+    index = 55343
+    icon = "trait_personal_55343_trait_diffuse.dds"
+}
+
+gom_trait_personal_55347 = {
+    index = 55347
+    icon = "trait_personal_55347_trait_diffuse.dds"
+}
+
+gom_trait_personal_55350 = {
+    index = 55350
+    icon = "trait_personal_55350_trait_diffuse.dds"
+}
+
+gom_trait_personal_55354 = {
+    index = 55354
+    icon = "trait_personal_55354_trait_diffuse.dds"
+}
+
+gom_trait_personal_55358 = {
+    index = 55358
+    icon = "trait_personal_55358_trait_diffuse.dds"
+}
+
+gom_trait_personal_55362 = {
+    index = 55362
+    icon = "trait_personal_55362_trait_diffuse.dds"
+}
+
+gom_trait_personal_55366 = {
+    index = 55366
+    icon = "trait_personal_55366_trait_diffuse.dds"
+}
+
+gom_trait_personal_55370 = {
+    index = 55370
+    icon = "trait_personal_55370_trait_diffuse.dds"
+}
+
+gom_trait_personal_55376 = {
+    index = 55376
+    icon = "trait_personal_55376_trait_diffuse.dds"
+}
+
+gom_trait_personal_55380 = {
+    index = 55380
+    icon = "trait_personal_55380_trait_diffuse.dds"
+}
+
+gom_trait_personal_55383 = {
+    index = 55383
+    icon = "trait_personal_55383_trait_diffuse.dds"
+}
+
+gom_trait_personal_55387 = {
+    index = 55387
+    icon = "trait_personal_55387_trait_diffuse.dds"
+}
+
+gom_trait_personal_55391 = {
+    index = 55391
+    icon = "trait_personal_55391_trait_diffuse.dds"
+}
+
+gom_trait_personal_55397 = {
+    index = 55397
+    icon = "trait_personal_55397_trait_diffuse.dds"
+}
+
+gom_trait_personal_55401 = {
+    index = 55401
+    icon = "trait_personal_55401_trait_diffuse.dds"
+}
+
+gom_trait_personal_55405 = {
+    index = 55405
+    icon = "trait_personal_55405_trait_diffuse.dds"
+}
+
+gom_trait_personal_55409 = {
+    index = 55409
+    icon = "trait_personal_55409_trait_diffuse.dds"
+}
+
+gom_trait_personal_55414 = {
+    index = 55414
+    icon = "trait_personal_55414_trait_diffuse.dds"
+}
+
+gom_trait_personal_55419 = {
+    index = 55419
+    icon = "trait_personal_55419_trait_diffuse.dds"
+}
+
+gom_trait_personal_55423 = {
+    index = 55423
+    icon = "trait_personal_55423_trait_diffuse.dds"
+}
+
+gom_trait_personal_55427 = {
+    index = 55427
+    icon = "trait_personal_55427_trait_diffuse.dds"
+}
+
+gom_trait_personal_55432 = {
+    index = 55432
+    icon = "trait_personal_55432_trait_diffuse.dds"
+}
+
+gom_trait_personal_55438 = {
+    index = 55438
+    icon = "trait_personal_55438_trait_diffuse.dds"
+}
+
+gom_trait_personal_55442 = {
+    index = 55442
+    icon = "trait_personal_55442_trait_diffuse.dds"
+}
+
+gom_trait_personal_55447 = {
+    index = 55447
+    icon = "trait_personal_55447_trait_diffuse.dds"
+}
+
+gom_trait_personal_55452 = {
+    index = 55452
+    icon = "trait_personal_55452_trait_diffuse.dds"
+}
+
+gom_trait_personal_55456 = {
+    index = 55456
+    icon = "trait_personal_55456_trait_diffuse.dds"
+}
+
+gom_trait_personal_55460 = {
+    index = 55460
+    icon = "trait_personal_55460_trait_diffuse.dds"
+}
+
+gom_trait_personal_55464 = {
+    index = 55464
+    icon = "trait_personal_55464_trait_diffuse.dds"
+}
+
+gom_trait_personal_55468 = {
+    index = 55468
+    icon = "trait_personal_55468_trait_diffuse.dds"
+}
+
+gom_trait_personal_55471 = {
+    index = 55471
+    icon = "trait_personal_55471_trait_diffuse.dds"
+}
+
+gom_trait_personal_55475 = {
+    index = 55475
+    icon = "trait_personal_55475_trait_diffuse.dds"
+}
+
+gom_trait_personal_55479 = {
+    index = 55479
+    icon = "trait_personal_55479_trait_diffuse.dds"
+}
+
+gom_trait_personal_55484 = {
+    index = 55484
+    icon = "trait_personal_55484_trait_diffuse.dds"
+}
+
+gom_trait_personal_55487 = {
+    index = 55487
+    icon = "trait_personal_55487_trait_diffuse.dds"
+}
+
+gom_trait_personal_55491 = {
+    index = 55491
+    icon = "trait_personal_55491_trait_diffuse.dds"
+}
+
+gom_trait_personal_55495 = {
+    index = 55495
+    icon = "trait_personal_55495_trait_diffuse.dds"
+}
+
+gom_trait_personal_55499 = {
+    index = 55499
+    icon = "trait_personal_55499_trait_diffuse.dds"
+}
+
+gom_trait_personal_55503 = {
+    index = 55503
+    icon = "trait_personal_55503_trait_diffuse.dds"
+}
+
+gom_trait_personal_55507 = {
+    index = 55507
+    icon = "trait_personal_55507_trait_diffuse.dds"
+}
+
+gom_trait_personal_55512 = {
+    index = 55512
+    icon = "trait_personal_55512_trait_diffuse.dds"
+}
+
+gom_trait_personal_55516 = {
+    index = 55516
+    icon = "trait_personal_55516_trait_diffuse.dds"
+}
+
+gom_trait_personal_55521 = {
+    index = 55521
+    icon = "trait_personal_55521_trait_diffuse.dds"
+}
+
+gom_trait_personal_55526 = {
+    index = 55526
+    icon = "trait_personal_55526_trait_diffuse.dds"
+}
+
+gom_trait_personal_55530 = {
+    index = 55530
+    icon = "trait_personal_55530_trait_diffuse.dds"
+}
+
+gom_trait_personal_55534 = {
+    index = 55534
+    icon = "trait_personal_55534_trait_diffuse.dds"
+}
+
+gom_trait_personal_55539 = {
+    index = 55539
+    icon = "trait_personal_55539_trait_diffuse.dds"
+}
+
+gom_trait_personal_55543 = {
+    index = 55543
+    icon = "trait_personal_55543_trait_diffuse.dds"
+}
+

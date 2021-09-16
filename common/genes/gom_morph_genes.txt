@@ -1,0 +1,97 @@
+﻿morph_genes = {
+	gom_no_portrait_gene = {
+		gom_no_portrait = {
+			index = 4
+			male = {
+				setting = {
+					attribute = "bs_no_portrait"
+					value = {
+						min = 1
+						max = 1
+					}
+				}
+				setting = {
+					attribute = "bs_body_no_portrait"
+					value = {
+						min = 1
+						max = 1
+					}
+				}
+			}
+			female = {
+				setting = {
+					attribute = "bs_no_portrait"
+					value = {
+						min = 1
+						max = 1
+					}
+				}
+				setting = {
+					attribute = "bs_body_no_portrait"
+					value = {
+						min = 1
+						max = 1
+					}
+				}
+			}
+			boy = {
+				setting = {
+					attribute = "bs_no_portrait"
+					value = {
+						min = 1
+						max = 1
+					}
+				}
+				setting = {
+					attribute = "bs_body_no_portrait"
+					value = {
+						min = 1
+						max = 1
+					}
+				}
+			}
+			girl = {
+				setting = {
+					attribute = "bs_no_portrait"
+					value = {
+						min = 1
+						max = 1
+					}
+				}
+				setting = {
+					attribute = "bs_body_no_portrait"
+					value = {
+						min = 1
+						max = 1
+					}
+				}
+			}
+		}
+	}
+}
+
+special_genes = {
+	accessory_genes = {
+		hgwclothes = {
+			no_clothes = {
+				index = 0
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+
+				# So that children always have clothes!
+				boy = {
+					1 = empty	
+				}
+				girl = {
+					1 = empty
+				}
+			}
+
+		}
+	
+	}
+}

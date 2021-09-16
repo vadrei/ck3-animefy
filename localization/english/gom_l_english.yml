@@ -1,0 +1,81 @@
+﻿l_english:
+
+#Traits
+ trait_gom_portrait:0 "Portrait Mode"
+ trait_gom_portrait_desc:0 "The 3D model has been hidden to show 2D portraits instead. Select one from the barbershop."
+ trait_gom_magic_talent:0 "Latent Power"
+ trait_gom_magic_talent_desc:0 "Strange accidents and bad ommens seem to follow this character."
+ trait_gom_magus:0 "Magus"
+ trait_gom_magus_desc:0 "A practitioner of the magic arts. This character can cast spells and research the hidden truths of the world."
+
+#Interactions
+ gom_hide_portrait_interaction:0 "Hide Portrait"
+ gom_hide_portrait_interaction_desc:0 "Hides the 3D Portrait so you can assign an Anime portait through the barbershop."
+ gom_show_portrait_interaction:0 "Show Portrait"
+ gom_show_portrait_interaction_desc:0 "Shows the 3D Portrait again."
+ gom_animefy_interaction:0 "Animefy"
+ gom_animefy_interaction_desc:0 "Turns the character into anime." 
+ gom_deanimefy_interaction:0 "Deanimefy"
+ gom_deanimefy_interaction_desc:0 "Why would you do this?"
+
+ gom_debug_become_mage_interaction:0 "DEBUG Make Mage"
+
+#Lifestyles
+ gom_magic_lifestyle_name:0 "Magic"
+ gom_magic_lifestyle_desc:0 "Studying magic is an ardous and difficult effort. Lifestyle XP is not earned passively, and thus you must perform experiments and use your piety to generate experience. Perks do not often grant plain stat boosts, but rather unlock new interactions that were previously inaccessible due to lack of knowledge. It will take several generations to complete it, so do look for ways to transfer your progress to your successor!"
+ gom_ego_lifestyle_tree_name:0 "Ego"
+ gom_order_lifestyle_tree_name:0 "Order"
+ gom_alter_lifestyle_tree_name:0 "Alter"
+
+#Effects
+ add_gom_magic_lifestyle_xp_effect_g:2 "Gains $VALUE|V0$ Magic Experience"
+ add_gom_magic_lifestyle_xp_effect_g_past:2 "Gained $VALUE|V0$ Magic Experience"
+ add_gom_magic_lifestyle_xp_effect_fp:2 "You gain $VALUE|V0$ Magic Experience"
+ add_gom_magic_lifestyle_xp_effect_fp_past:2 "You gained $VALUE|V0$ Magic Experience"
+ add_gom_magic_lifestyle_xp_effect_tp:2 "[CHARACTER.GetShortUIName|U] gains $VALUE|V0$ Magic Experience"
+ add_gom_magic_lifestyle_xp_effect_tp_past:2 "[CHARACTER.GetShortUIName|U] gained $VALUE|V0$ Magic Experience"
+
+#Lifestyle Perjs
+ gom_fundamentals_perk_name:0 "Fundamentals"
+ gom_fundamentals_perk_effect:0 "The mysteries of magic are vast. If I am to master it, I must first research and understand the basics."
+
+ gom_release_perk_name:0 "Release"
+ gom_release_perk_effect:0 "To shape and release mana is the very definition of magic. Simply grasping its flow is nothing more than meditation."
+
+ gom_infuse_perk_name:0 "Infuse"
+ gom_infuse_perk_effect:0 "Mana exists in all the things. Rocks, trees, livestock and even people. It's in constant flux, and interrupting and reshaping that flow inwards is called infusion."
+
+ gom_trace_perk_name:0 "Trace"
+ gom_trace_perk_effect:0 "By momentarily casting aside any worldly thoughts and focusing on nothing but the mana around me, I can learn the fundamental structures of the objects I touch."
+
+ gom_spellcasting_perk_name:0 "Incantation"
+ gom_spellcasting_perk_effect:0 "Magic is complex. Dozens, hundreds of minute instructions that must be executed precisely in a short time. It should be as effortless as words, and its semantics will be the language of magic."
+
+ gom_magic_circuit_perk_name:0 "Magic Circuit"
+ gom_magic_circuit_perk_effect:0 "What I once understood as just magical talent is something far more complex. Like veins, mana flows inside channels through my body. I can better utilize it, but I can also grasp the limits of my own existence."
+
+ gom_magic_crest_perk_name:0 "Magic Crest"
+ gom_magic_crest_perk_effect:0 "The cornerstone of magic research. The ability to inscribe decades of knowledge into the flesh, and to transfer it to a heir to continue the work of their dinasty."
+
+ gom_homunculi_perk_name:0 "Homunculi"
+ gom_homunculi_perk_effect:0 ""
+
+ gom_transfer_ego_perk_name:0 "Ego Infusion"
+ gom_transfer_ego_perk_effect:0 ""
+
+ gom_bloodlines_perk_name:0 "Bloodlines"
+ gom_bloodlines_perk_effect:0 ""
+
+ gom_life_extension_perk_name:0 "Life Extension"
+ gom_life_extension_perk_effect:0 ""
+
+ gom_alter_perk_name:0 "Kaleidoscope"
+ gom_alter_perk_effect:0 ""
+
+ #Decisions
+ gom_start_research_decision:0 "Research Magic"
+ gom_start_research_decision_desc:0 "The secrets of the world still elude me, and perhaps they shall always do so. But no one will blame me for lack of trying."
+ gom_start_research_decision_tooltip:0 "You will attempt to further your knowledge in magic at the expense of piety."
+ gom_start_research_decision_confirm:0 "Ready the pen and scroll"
+
+ 

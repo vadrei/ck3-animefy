@@ -1,0 +1,136 @@
+﻿gom_no_portrait = {
+	servant_no_portrait = {
+		dna_modifiers = {
+			morph = {
+				mode = replace
+				gene = gom_no_portrait_gene
+				template = gom_no_portrait
+				value = 1
+			}
+			morph = {
+				mode = replace
+				gene = complexion
+				template = complexion_no_face
+				value = 1
+			}
+			morph = {
+				mode = replace
+				gene = gene_age
+				template = no_aging
+				value = 1
+			}
+			accessory = {
+				mode = add
+				gene = beards
+				template = no_beard
+				value = 1
+			}
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = no_hairstyles
+				value = 1
+			}
+			accessory = {
+				mode = modify
+				gene = eye_accessory
+				template = no_eyes
+				value = 1
+			}
+			accessory = {
+				mode = modify
+				gene = eyelashes_accessory
+				template = no_eyelashes
+				value = 1
+			}
+			morph = {
+				mode = modify
+				gene = gene_eyebrows_shape
+				template = no_eyebrows
+				value = 1
+			}
+			morph = {
+				mode = modify
+				gene = gene_eyebrows_fullness
+				template = no_eyebrows
+				value = 1
+			}
+			accessory = {
+				mode = modify
+				gene = teeth_accessory
+				template = no_teeth
+				value = 1
+			}
+			accessory = {
+				mode = add
+				gene = legwear
+				template = no_legwear
+				value = 1
+			}
+			accessory = {
+				mode = add
+				gene = clothes
+				template = no_clothes
+				value = 1
+			}
+			accessory = {
+				mode = add
+				gene = headgear
+				template = no_headgear
+				value = 1
+			}
+			accessory = {
+				mode = add
+				gene = cloaks
+				template = no_cloak
+				value = 1
+
+			}
+
+			accessory = {
+				mode = add				
+				gene = props
+				template = no_props
+				value = 1
+			}
+			accessory = {
+				mode = add
+				gene = special_headgear_face_mask
+				template = no_face_mask
+				value = 1
+			}
+			accessory = {
+				mode = add				
+				gene = special_headgear_head_bandage
+				template = no_head_bandage
+				value = 1
+			}
+			accessory = {
+				mode = add				
+				gene = special_headgear_blindfold
+				template = no_blindfold
+				value = 1
+			}
+			accessory = {
+				mode = add				
+				gene = special_headgear_eye_patch
+				template = no_eye_patch
+				value = 1
+			}
+			accessory = {
+				mode = add				
+				gene = special_legwear
+				template = no_special_legwear
+				value = 1
+			}
+
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 200
+				portrait_trigger = yes
+			}
+		}
+	}
+}

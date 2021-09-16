@@ -1,0 +1,65 @@
+﻿# ==== Basics =========================================================================================================
+
+gom_is_mage_trigger = {
+	OR = {
+		has_trait = gom_magus
+	}
+}
+
+gom_magic_unlocked_trigger = {
+	OR = {
+		gom_is_mage_trigger = yes
+		has_trait = gom_magic_talent
+	}
+}
+
+gom_can_research_magic_trigger = {
+	OR = {
+		gom_is_mage_trigger = yes
+		has_trait = gom_magic_talent
+	}
+}
+
+# ==== Levels Of Mastery ==============================================================================================
+
+gom_magic_is_novice_trigger = {
+	AND = {
+		gom_is_mage_trigger = no
+		has_trait = gom_magic_talent
+	}
+}
+
+gom_magic_is_intermediate_trigger = {
+	AND = {
+		gom_is_mage_trigger = yes
+		NOT = {
+			has_perk = gom_magic_crest_perk
+		}
+	}
+}
+
+gom_magic_is_expert_trigger = {
+	AND = {
+		gom_is_mage_trigger = yes
+		has_perk = gom_magic_crest_perk
+		NOT = {
+			has_perk = gom_alter_perk
+		}
+	}
+}
+
+gom_magic_is_master_trigger = {
+	AND = {
+		gom_is_mage_trigger = yes
+		has_perk = gom_alter_perk
+	}
+}
+
+# ==== Portrait Related ===============================================================================================
+
+portrait_trigger = {
+	OR = {
+		has_trait = gom_portrait
+		gom_servant_trigger = yes
+	}
+}

@@ -1,0 +1,18 @@
+﻿on_birth_child = {
+	on_actions = {
+		on_birth_animefy
+	}
+}
+
+on_birth_animefy = {
+	trigger = {
+		OR = {
+			scope:mother = { portrait_trigger = yes }
+			scope:real_father = { portrait_trigger = yes }
+		}
+	}
+
+	effect = {
+		gom_add_servant_portrait = yes
+	}
+}

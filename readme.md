@@ -1,6 +1,4 @@
-﻿Note: This repository does not contain any portraits. For that, please visit the steam workshop page. 
-
-![Animefy Thumbnail](/thumbnail.png)
+﻿![Animefy Thumbnail](/thumbnail.png)
 # Make your dynasty in glorious 2D
 Tired of your ruler looking like an old grandpa? Your promised spouse turned out a little on the "homely" side? Need a little facelift for your superior inbred dynasty? Say no more. Today, you can now relive history as the Nasuverse envisions it.
 
@@ -37,8 +35,17 @@ Everything else you can think of is almost certainly compatible!
 
 # Links - Support & Contribute
 
-WIP.
+- [Github](https://github.com/vadrei/ck3-animefy) (No Assets)
+- [Discord](https://discord.gg/25PxQF6xGq)
+
+# Recruiting
+
+As I said before, I am currently working on a Nasuverse mod. A gigantic amount of work has already been done: icons, backgrounds, traits, tooling and more, but the bulk of any mod is content, and for that I will need all the help I can get! If you can perform any of these roles, hop on discord and let me know!
+
+- Event Writer: Preferably with the knowledge to put those events together as well, but not necessarily integrate them into gameplay. Creativity and literally craft is the main focus, as well as a deep understanding of Nasuverse lore (Tsukihime, Fate / Stay Night, FGO, etc)
+- Gameplay Modder: The mod is not overly ambitious, the idea is to integrate with the vanilla gameplay through events, traits and a new focus and three new skill trees. I have already started work on many of these aspects but once again, lots to do.
 
 # My Other Mods
 
-WIP.
+- [Dynamic XP](https://steamcommunity.com/sharedfiles/filedetails/?id=2482525663&searchtext=Dynamic+XP)
+
